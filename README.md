@@ -1,4 +1,5 @@
 # cheatSheet
 
-Make model including migration
-php artisan make:model modelName -m
+*Make model including migration
+
+-php artisan make:model modelName -m
